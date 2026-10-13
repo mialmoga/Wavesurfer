@@ -12,7 +12,7 @@
 
 ## ▶ Jugar
 
-**En línea:** `[https://mialmoga.github.io/Wavesurfer/]` 
+**En línea:** `https://mialmoga.github.io/Wavesurfer/` 
 
 **En local:** descarga `index.html` (o `wavesurfer_v4.html`) y ábrelo en tu navegador. No necesita instalación ni servidor.
 
