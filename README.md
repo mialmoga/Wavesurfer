@@ -3,7 +3,7 @@
 **Ride the music.** Un juego de carreras musicales de bolsillo: tu canción se convierte en una pista tipo montaña rusa, las notas en bloques de colores, y tú surfeas encima. Un solo archivo HTML, se juega con un dedo.
 
 <p align="center">
-  <img src="img/shoot7.png" alt="WAVESURFER en partida" width="300">
+  <img src="img/shoot7.jpg" alt="WAVESURFER en partida" width="300">
 </p>
 
 > Un **tributo** a [Audiosurf](https://en.wikipedia.org/wiki/Audiosurf) con alma propia. No pretende reemplazarlo ni está afiliado a sus autores.
@@ -79,19 +79,19 @@ En la pantalla previa a iniciar eliges tu nave: **Original** (blanca con alas az
 
 <table>
   <tr>
-    <td align="center"><img src="img/shoot1.png" width="260"><br><sub>Pantalla previa: perfil de la pista, control y sensibilidad</sub></td>
-    <td align="center"><img src="img/shoot2.png" width="260"><br><sub>Nuevo récord: tus 3 letras</sub></td>
-    <td align="center"><img src="img/shoot3.png" width="260"><br><sub>Una CADENA ×2 sobre la pista</sub></td>
+    <td align="center"><img src="img/shoot1.jpg" width="260"><br><sub>Pantalla previa: perfil de la pista, control y sensibilidad</sub></td>
+    <td align="center"><img src="img/shoot2.jpg" width="260"><br><sub>Nuevo récord: tus 3 letras</sub></td>
+    <td align="center"><img src="img/shoot3.jpg" width="260"><br><sub>Una CADENA ×2 sobre la pista</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="img/shoot4.png" width="260"><br><sub>Cluster en modo horizontal</sub></td>
-    <td align="center"><img src="img/shoot5.png" width="260"><br><sub>Tabla de scores de una canción</sub></td>
-    <td align="center"><img src="img/shoot6.png" width="260"><br><sub>Menú de scores: una lista por canción</sub></td>
+    <td align="center"><img src="img/shoot4.jpg" width="260"><br><sub>Cluster en modo horizontal</sub></td>
+    <td align="center"><img src="img/shoot5.jpg" width="260"><br><sub>Tabla de scores de una canción</sub></td>
+    <td align="center"><img src="img/shoot6.jpg" width="260"><br><sub>Menú de scores: una lista por canción</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="img/shoot7.png" width="260"><br><sub>Combo ×5 con la pila casi llena</sub></td>
-    <td align="center"><img src="img/shoot8.png" width="260"><br><sub>3× cluster en vertical</sub></td>
-    <td align="center"><img src="img/shoot9.png" width="260"><br><sub>Horizontal con minimapa del recorrido y ×3</sub></td>
+    <td align="center"><img src="img/shoot7.jpg" width="260"><br><sub>Combo ×5 con la pila casi llena</sub></td>
+    <td align="center"><img src="img/shoot8.jpg" width="260"><br><sub>3× cluster en vertical</sub></td>
+    <td align="center"><img src="img/shoot9.jpg" width="260"><br><sub>Horizontal con minimapa del recorrido y ×3</sub></td>
   </tr>
 </table>
 
