@@ -1,5 +1,9 @@
 # 🌊 WAVESURFER
 
+<p align="center">
+  <img src="assets/banner.png" alt="WAVESURFER">
+</p>
+
 **Ride the music.** Un juego de carreras musicales de bolsillo: tu canción se convierte en una pista tipo montaña rusa, las notas en bloques de colores, y tú surfeas encima. Un solo archivo HTML, se juega con un dedo.
 
 <p align="center">
