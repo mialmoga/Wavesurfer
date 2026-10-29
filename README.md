@@ -94,7 +94,7 @@ En la pantalla previa a iniciar eliges tu nave: **Original** (blanca con alas az
   </tr>
   <tr>
     <td align="center"><img src="img/shoot7.jpg" width="260"><br><sub>Combo ×5 con la pila casi llena</sub></td>
-    <td align="center"><img src="img/shoot8.jpg" width="260"><br><sub>3× cluster en vertical</sub></td>
+    <td align="center"><img src="img/shoot8.jpg" width="260"><br><sub>6 demos para jugar</sub></td>
     <td align="center"><img src="img/shoot9.jpg" width="260"><br><sub>Horizontal con minimapa del recorrido y ×3</sub></td>
   </tr>
 </table>
