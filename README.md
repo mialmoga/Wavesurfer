@@ -7,7 +7,7 @@
 **Ride the music.** Un juego de carreras musicales de bolsillo: tu canción se convierte en una pista tipo montaña rusa, las notas en bloques de colores, y tú surfeas encima. Un solo archivo HTML, se juega con un dedo.
 
 <p align="center">
-  <img src="img/shoot7.jpg" alt="WAVESURFER en partida" width="300">
+  <img src="img/shoot4.jpg" alt="WAVESURFER en partida" width="300">
 </p>
 
 > Un **tributo** a [Audiosurf](https://en.wikipedia.org/wiki/Audiosurf) con alma propia. No pretende reemplazarlo ni está afiliado a sus autores.
@@ -93,7 +93,7 @@ En la pantalla previa a iniciar eliges tu nave: **Original** (blanca con alas az
     <td align="center"><img src="img/shoot6.jpg" width="260"><br><sub>Menú de scores: una lista por canción</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="img/shoot7.jpg" width="260"><br><sub>Combo ×5 con la pila casi llena</sub></td>
+    <td align="center"><img src="img/shoot.jpg" width="260"><br><sub>Naves de diferente color</sub></td>
     <td align="center"><img src="img/shoot8.jpg" width="260"><br><sub>6 demos para jugar</sub></td>
     <td align="center"><img src="img/shoot9.jpg" width="260"><br><sub>Horizontal con minimapa del recorrido y ×3</sub></td>
   </tr>
