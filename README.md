@@ -7,7 +7,7 @@
 **Ride the music.** Un juego de carreras musicales de bolsillo: tu canción se convierte en una pista tipo montaña rusa, las notas en bloques de colores, y tú surfeas encima. Un solo archivo HTML, se juega con un dedo.
 
 <p align="center">
-  <img src="img/shoot4.jpg" alt="WAVESURFER en partida" width="300">
+  <img src="img/shoot4.jpg" alt="WAVESURFER en partida">
 </p>
 
 > Un **tributo** a [Audiosurf](https://en.wikipedia.org/wiki/Audiosurf) con alma propia. No pretende reemplazarlo ni está afiliado a sus autores.
@@ -88,12 +88,12 @@ En la pantalla previa a iniciar eliges tu nave: **Original** (blanca con alas az
     <td align="center"><img src="img/shoot3.jpg" width="260"><br><sub>Una CADENA ×2 sobre la pista</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="img/shoot4.jpg" width="260"><br><sub>Cluster en modo horizontal</sub></td>
+    <td align="center"><img src="img/shoot.jpg" width="260"><br><sub>Naves de diferente color</sub></td>
     <td align="center"><img src="img/shoot5.jpg" width="260"><br><sub>Tabla de scores de una canción</sub></td>
     <td align="center"><img src="img/shoot6.jpg" width="260"><br><sub>Menú de scores: una lista por canción</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="img/shoot.jpg" width="260"><br><sub>Naves de diferente color</sub></td>
+    <td align="center"><img src="img/shoot7.jpg" width="260"><br><sub>Combo x5</sub></td>
     <td align="center"><img src="img/shoot8.jpg" width="260"><br><sub>6 demos para jugar</sub></td>
     <td align="center"><img src="img/shoot9.jpg" width="260"><br><sub>Horizontal con minimapa del recorrido y ×3</sub></td>
   </tr>
