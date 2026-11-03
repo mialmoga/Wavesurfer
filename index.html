@@ -1986,7 +1986,7 @@ demoKit.metric=function(sr,BPM,BARS,tail,seed){
 // intro(0-7) · build(8-15) · drop dulce(16-31) · breakdown caja de música(32-39) · drop final(40-51)
 
 async function renderCotton(sr,onProg){
-  const BARS=52, K=makeKit(sr,140,BARS,2.5,20261015);
+  const BARS=52, K=demoKit.metric(sr,140,BARS,2.5,20261015);
   const {beat,bar,hz,T,add,syn,kick,snare,clap,hat,crash,riser,mu}=K;
   // campanita / caja de música: parciales inarmónicos que se apagan rápido
   const bell=(t0,m,a,pan,len)=>{
@@ -2482,7 +2482,7 @@ async function renderCottonV2(sr,onProg){
 // 174 BPM · Re menor (Dm–Bb–Gm–A) · 64 compases (~88 s)
 // intro(0-7) · build(8-15) · drop(16-31) · breakdown half-time(32-39) · drop final(40-59) · outro(60-63)
 async function renderVoid(sr,onProg){
-  const BARS=64, K=makeKit(sr,174,BARS,2.5,20261016);
+  const BARS=64,  K=demoKit.metric(sr,174,BARS,2.5,20261016);
   const {beat,bar,hz,T,add,syn,kick,snare,hat,crash,riser,mu,lpc,soft,rnd}=K;
   // reese: 4 sierras desafinadas, filtro de 2 polos con wobble sincronizado al pulso (rate = ondas por pulso)
   function reese(t0,len,f,a,rate,open){
